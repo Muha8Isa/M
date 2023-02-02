@@ -1,4 +1,2 @@
-<p align="center">
-  <img width="460" height="300" (https://user-images.githubusercontent.com/115469135/216431447-a79483d2-6e7a-4bba-bfbc-102f34ab0397.gif)/460/300">
-</p>
 
+![1kc1](https://user-images.githubusercontent.com/115469135/216434982-60a34b76-ad1a-4597-83cb-3550bc62733c.gif)
